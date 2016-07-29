@@ -16,5 +16,5 @@
 原文链接：http://www.jianshu.com/p/3e22d53286ca
 著作权归作者所有，转载请联系作者获得授权，并标注“简书作者”。
 
-#imageloader picasso glide fresco等图片加载框架的区别
+#二、imageloader picasso glide fresco等图片加载框架的区别
 http://blog.csdn.net/qq_25690935/article/details/50548457
