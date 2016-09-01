@@ -25,3 +25,6 @@ https://gold.xitu.io/entry/576a67902e958a00699faaec
 
 #四、apk打包
 http://www.2cto.com/kf/201606/517300.html
+
+#五、微信支付
+http://www.thinksaas.cn/topics/0/493/493596.html
