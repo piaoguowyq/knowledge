@@ -28,3 +28,6 @@ http://www.2cto.com/kf/201606/517300.html
 
 #五、微信支付
 http://www.thinksaas.cn/topics/0/493/493596.html
+
+#六、github上的优秀开源项目
+http://www.cnblogs.com/hawkon/p/3593709.html
