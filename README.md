@@ -31,7 +31,7 @@ http://www.thinksaas.cn/topics/0/493/493596.html
 
 #六、加密、解密与Https单向认证和双向认证
 对称加密与非对称加密：
-  http://www.cnblogs.com/jfzhu/p/4020928.html
+  http://www.cnblogs.com/jfzhu/p/4020928.html                             
 Https单向认证和双向认证
   http://blog.csdn.net/duanbokan/article/details/50847612
 #七、github上的优秀开源项目
