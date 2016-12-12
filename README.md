@@ -34,5 +34,9 @@ http://www.thinksaas.cn/topics/0/493/493596.html
   http://www.cnblogs.com/jfzhu/p/4020928.html                             
 Https单向认证和双向认证：
   http://blog.csdn.net/duanbokan/article/details/50847612
+
 #七、github上的优秀开源项目
 http://www.cnblogs.com/hawkon/p/3593709.html
+
+#八、studio中使用git进行版本控制
+http://www.th7.cn/Program/Android/201506/487759.shtml
