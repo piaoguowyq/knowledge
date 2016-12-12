@@ -39,4 +39,5 @@ Https单向认证和双向认证：
 http://www.cnblogs.com/hawkon/p/3593709.html
 
 #八、studio中使用git进行版本控制
-http://www.th7.cn/Program/Android/201506/487759.shtml
+1、Android studio使用git提交但是没有push,如何回退并保存
+    http://www.th7.cn/Program/Android/201506/487759.shtml
