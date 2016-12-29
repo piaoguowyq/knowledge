@@ -1,6 +1,6 @@
 # knowledge
 ##一、ListView的优化
-1.在adapter中的getView方法中尽量少使用逻辑
+1.在adapter中的getView方法中尽量少使用逻辑\n
 2.尽最大可能避免GC
 3.滑动的时候不加载图片
 4.将ListView的scrollingCache和animateCache设置为false
