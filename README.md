@@ -86,3 +86,4 @@ Java_com_atguigu_jnitests2_JNIS_helloJNI</br>
 2、在main目录下创建jni目录，写C代码-生成头文件</br>
 3、配置动态链接库的名称</br>
 4、加载动态连接库</br>
+5、使用</br>
