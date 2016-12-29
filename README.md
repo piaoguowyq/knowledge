@@ -1,11 +1,11 @@
 # knowledge
 ##一、ListView的优化
-1.在adapter中的getView方法中尽量少使用逻辑\n
-2.尽最大可能避免GC
-3.滑动的时候不加载图片
-4.将ListView的scrollingCache和animateCache设置为false
-5.item的布局层级越少越好
-6.使用ViewHolder
+1.在adapter中的getView方法中尽量少使用逻辑</br>
+2.尽最大可能避免GC</br>
+3.滑动的时候不加载图片</br>
+4.将ListView的scrollingCache和animateCache设置为false</br>
+5.item的布局层级越少越好</br>
+6.使用ViewHolder</br>
 原文链接：http://www.jianshu.com/p/3e22d53286ca
 
 ##二、imageloader picasso glide fresco等图片加载框架的区别
