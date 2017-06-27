@@ -183,6 +183,7 @@ public class MyView extends View {
         return (float) Math.sqrt(x * x + y * y);
     }
     // 计算两个触摸点的中点
+    // this is a test for cemtos pull.
     private PointF middle(MotionEvent event) {
         float x = event.getX(0) + event.getX(1);
         float y = event.getY(0) + event.getY(1);
