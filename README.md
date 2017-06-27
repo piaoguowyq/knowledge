@@ -1,3 +1,5 @@
+#这些编码格式都得变！
+
 # knowledge
 ##一、ListView的优化
 1.在adapter中的getView方法中尽量少使用逻辑</br>
